@@ -1,0 +1,9 @@
+name: ServeurInfo
+version: 1.0
+description: Plugin pour savoir les informations du serveur (par Niasio)
+main: fr.niasio.Main
+
+commands:
+   serveurinfo:
+     description: Information du serveur.
+     aliases: [si,info,iserv]
